@@ -3,7 +3,7 @@ Implement a solution to swap two numbers using different techniques.*/
 #include<iostream>
 using namespace std;
 int main(){
-    int num1=100,num2=88;
+    int num1=50,num2=100;
     int temp;
     temp=num1;
     num1=num2;
